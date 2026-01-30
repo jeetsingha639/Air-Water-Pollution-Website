@@ -1,7 +1,5 @@
-# Air-Water-Pollution-Website
-[problem.statement.pdf](https://github.com/jeetsingha639/Air-Water-Pollution-Website/files/14454440/problem.statement.pdf)
-
 # 🌍 Air Pollution Awareness Website
+[problem.statement.pdf](https://github.com/jeetsingha639/Air-Water-Pollution-Website/files/14454440/problem.statement.pdf)
 
 A multi-page informational website focused on **air pollution**, its **causes, effects, and health impacts**, along with a **contact form** for user interaction.  
 Built using **HTML and CSS**, this project aims to spread awareness about environmental issues in a simple and visual way.
