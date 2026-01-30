@@ -38,7 +38,4 @@ It also includes a **Contact Us page** for collecting user details.
 - **Responsive Design**
 - **External Resources & Videos**
 
----
-
-## 📂 Project Structure
 
